@@ -23,7 +23,7 @@ const data = [
   },
   {
     label: "PORTFOLIO",
-    to: "/portfolio",
+    to: "/Portfolio_React/portfolio",
   },
   {
     label: "CONTACT",
